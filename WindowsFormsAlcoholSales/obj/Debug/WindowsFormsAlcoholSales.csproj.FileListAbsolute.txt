@@ -1,0 +1,12 @@
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\bin\Debug\WindowsFormsAlcoholSales.exe.config
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\bin\Debug\WindowsFormsAlcoholSales.exe
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\bin\Debug\WindowsFormsAlcoholSales.pdb
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.Form1.resources
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.AddForm.resources
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.EditForm.resources
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.Properties.Resources.resources
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.exe
+C:\Users\Professional\source\repos\WindowsFormsAlcoholSales\WindowsFormsAlcoholSales\obj\Debug\WindowsFormsAlcoholSales.pdb
